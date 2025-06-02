@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kiran 👋</h1>
 <p align="center">
-  🚀 Full-Stack & Platform Engineer | 💻 10+ Years Experience <br/>
+  🚀 Full-Stack | 💻 10+ Years Experience <br/>
   🔧 Cloud ☁️ • Infra 🏗️ • Microservices 🧩 • Observability 📊 • Developer Platforms 🛠️
 </p>
 
